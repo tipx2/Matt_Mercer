@@ -8,7 +8,7 @@ const cheerio = require('cheerio');
 
 const request = require('request');
 
-const token = 'NjQxNzM4NTg0ODA1ODY3NTQw.XcMwGA.dV05wilzG6H4zvPBb0Sddczt67Q';
+const token = "Token_Goes_Here";
 
 bot.on('ready',() =>{
     console.log('Matt_Mercer has Decended');
